@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Jonathan Gomes  👋
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Paulista**, com previsão de formatura em Junho de 2025. Tenho interesse em seguir carreira na área de **programação e desenvolvimento de software**, mas também tenho experiência em áreas relacionadas à **TI**, como suporte técnico e redes de computadores.
 
